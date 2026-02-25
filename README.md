@@ -1,4 +1,4 @@
-##Hello my name is J.J. Humenay and I am a Senior Economics major and Statistics minor at St. Lawrence University 👋
+##Hello my name is J.J. Humenay. I am a Senior Economics major and Statistics minor at St. Lawrence University 👋
 
 <!--
 **Humenayj/Humenayj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
